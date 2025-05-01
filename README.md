@@ -1,6 +1,7 @@
 
 ![aprizal543](img/github-header-image.png)
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -69,4 +70,3 @@
 <img src="https://raw.githubusercontent.com/aprizal543/aprizal543/output/snake.svg" alt="Snake animation" />
 
 ###
-
