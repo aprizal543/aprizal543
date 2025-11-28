@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am an AI Engineer (Student) with akeen focus on Machine Learning and cutting-edge technologies like GenAI. My core tecnical expertise resloves around Python adn the ML/DL framework ecosystem Tensorflow. I specialize in the hands-on implementation of model Machine Learning, Deep Learning, Computer Vision like a developing model for classification, regression, prediction, object detection, and segmentation task, and exploring GenAI solutions using LLMs and RAG for tasks such as text generation and summarization.
+I'am an AI Engineer (Student) with akeen focus on Machine Learning and cutting-edge technologies like GenAI. My core tecnical expertise resolves around Python and the ML/DL framework ecosystem Tensorflow. I specialize in the hands-on implementation of model Machine Learning, Deep Learning, Computer Vision like a developing model for classification, regression, prediction, object detection, and segmentation task, and exploring GenAI solutions using LLMs and RAG for tasks such as text generation and summarization.
 
 
 ## 🌐 Socials:
